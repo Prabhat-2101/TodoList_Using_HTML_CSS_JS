@@ -27,13 +27,13 @@ This project is a simple Todo List application built using HTML, CSS, and JavaSc
 1. **Clone the repository** or download the ZIP file.
 
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/Prabhat-2101/TodoList_Using_HTML_CSS_JS.git
    ```
 
 2. **Navigate to the project directory**.
 
    ```bash
-   cd todo-list
+   cd Prabhat-2101/TodoList_Using_HTML_CSS_JS
    ```
 
 3. **Open `index.html` in your web browser**.
@@ -66,8 +66,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Inspired by various Todo List applications.
-- Thanks to the community for continuous learning and support!
-
----
-
-Feel free to modify any section to better suit your project's needs!
+- Thanks to the community for continuous learning and support.
